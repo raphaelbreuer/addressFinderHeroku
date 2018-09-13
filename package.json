@@ -7,6 +7,10 @@
     "start": "ts-node server.ts",
     "test": "ts-node server2.ts"
   },
+  "engines": {
+    "npm": "5.5.1",
+    "node": "8.9.1"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
