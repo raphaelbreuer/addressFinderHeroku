@@ -30,6 +30,7 @@
     "dotenv": "^4.0.0",
     "download": "^6.2.5",
     "es6-object-assign": "^1.1.0",
+    "event-stream": "^3.3.4",
     "express": "^4.15.4",
     "express-promise-router": "^2.0.0",
     "ffs": "^0.1.2",
